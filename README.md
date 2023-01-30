@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Emirhan. :blush:
 
-## Frontend Developer | Electrical Electronics Enginnering
+## Frontend Developer
 
 I am an engineer. I want to improve myself in the field of software that I started as a hobby and to become a professional software developer. I am developing myself in the Front-End field. Technologies I am interested in are; Html5, Css3, JavaScript, Bootstrap 5, Sass ,React js.
 
