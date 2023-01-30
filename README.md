@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" width="400" height="250" align="right">
+<iframe src="https://giphy.com/embed/xUA7aZhmzXeCXq80Hm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nobodiestv-tv-land-tvland-xUA7aZhmzXeCXq80Hm">via GIPHY</a></p>
 
 ### Hi there, I'm Emirhan. :blush:
 
