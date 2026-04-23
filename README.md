@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" width="400" height="250" align="right">
+
 ### Hi there, I'm Emirhan. :blush:
 
 ## Data Analyst | Data Scientist
@@ -5,12 +7,6 @@
 I am a highly motivated Data Analyst and Data Scientist with a solid foundation in Electrical-Electronics Engineering. I recently completed a rigorous 6-month intensive Data Science program at Workintech. I am passionate about transforming complex data into actionable business insights using Machine Learning, NLP, and AI-supported data engineering. 
 
 My previous experience in Frontend Development allows me to build highly interactive and user-friendly data visualization dashboards.
-
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" width="350" alt="Emirhan Thinking Data">
-</div>
-<br>
 
 ### Reach out to me
 
