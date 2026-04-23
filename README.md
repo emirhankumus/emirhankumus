@@ -4,7 +4,7 @@
 
 ## Data Analyst | Data Scientist
 
-I am a highly motivated Data Analyst and Data Scientist with a solid foundation in Electrical-Electronics Engineering. I recently completed a rigorous 6-month intensive Data Science program at Workintech. I am passionate about transforming complex data into actionable business insights using Machine Learning, NLP, and AI-supported data engineering. 
+I am a highly motivated Data Analyst and Data Scientist, passionate about generating value from data with an analytical mindset. I translated the problem-solving discipline from my Electrical-Electronics Engineering background into practice through an intensive 6-month Data Science program at Workintech. During this process, I specialized in machine learning, advanced data analysis, and AI-supported tools (LLM, NLP) to develop end-to-end projects. My core motivation is to blend my engineering vision with data science to solve complex business problems and deliver actionable insights.
 
 My previous experience in Frontend Development allows me to build highly interactive and user-friendly data visualization dashboards.
 
