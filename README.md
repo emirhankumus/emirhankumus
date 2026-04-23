@@ -10,7 +10,9 @@ My previous experience in Frontend Development allows me to build highly interac
 
 ### Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirhankumus/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirhankumus@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
 
 <br><br>
 
