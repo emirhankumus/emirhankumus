@@ -1,7 +1,5 @@
 <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" width="400" height="250" align="right">
 
-<img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" width="400" height="250" align="right">
-
 ### Hi there, I'm Emirhan. :blush:
 
 ## Data Scientist | Data Analyst
